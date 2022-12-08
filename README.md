@@ -1,8 +1,8 @@
 <div align="center">
   <p float="left">
     <img src="preview3.png" width="70%" height="70%">
-    <a href="#download" onclick="goToByScroll('download');return false;" class="btn btn-primary btn-large">Download</a>
   </p>
+  <a href="#download" onclick="goToByScroll('download');return false;" class="btn btn-primary btn-large">Download</a>
 </div>
 
 # [Carnet B.apkg](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)
