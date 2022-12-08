@@ -1,8 +1,12 @@
-
+<div align="center">
+  <p float="left">
+    <img src="preview1.png" width="40%" height="40%">
+  </p>
+</div>
 # anki-carnet-B
 Un deck de anki con 2730 preguntas para el examen teórico del permiso B.
 <font size="6">
-[Carnet B.apkg](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg){style="font-size:300%;"}
+[Carnet B.apkg](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)
 </font>
 
 <p float="left">
