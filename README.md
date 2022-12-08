@@ -1,7 +1,7 @@
 
 <div align="center">
   <p float="left">
-    <img src="preview5.png" width="100%" height="100%">
+    <img src="preview6.png" width="100%" height="100%">
   </p>
 </div>
 
