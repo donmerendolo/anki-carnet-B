@@ -5,7 +5,7 @@
   </p>
 </div>
 
-# [Descargar el deck](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)
+# </center>[Descargar](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)</center>
 Un deck de anki con 2730 preguntas para el examen teórico del permiso B.
 
 ## Addon necesario
