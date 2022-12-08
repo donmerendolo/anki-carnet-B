@@ -1,7 +1,8 @@
 
 # anki-carnet-B
 Un deck de anki con 2730 preguntas para el examen teórico del permiso B.
-[Carnet B.apkg]("./Carnet B.apkg")
+
+[Carnet B.apkg](https://github.com/donmerendolo/anki-carnet-B/blob/master/Carnet%20B.apkg)
 
 <p float="left">
   <img src="preview1.png" width="40%" height="40%">
